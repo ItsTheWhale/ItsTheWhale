@@ -1,7 +1,7 @@
 # Hello world!
 Hello world!
 
-![My profile picture](https://itsthewhale.github.io/img/favicon.png)
+![My profile picture](https://itsthewhale.github.io/img/favicon_250x250.png)
 
 # About me
 - Random Javascript / C++ user  
